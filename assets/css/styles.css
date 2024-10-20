@@ -1,0 +1,71 @@
+body {
+    font-family: "Yu Gothic Medium", "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", "Helvetica Neue", Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #2f4f4f;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-align: left;
+    color: #3a6351;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+h2 img {
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.radical {
+    background-color: #ffffff;  /* 白色の背景 */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0; /* 少し目立つように薄い境界線 */
+}
+
+.radical h3 {
+    font-size: 22px;
+    color: #2f4f4f;
+    text-align: center;
+}
+
+.radical-glyphs {
+  display: flex;
+  justify-content: center; /* 中央揃えにする */
+  align-items: center;     /* 垂直方向も中央揃え */
+  gap: 10px;               /* 要素間のスペースを調整 */
+}
+
+.radical img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 10px auto;
+    background-color: #ffffff;  /* 画像部分も背景を白色 */
+}
+
+.radical p {
+    font-size: 16px;
+    color: #555;
+    text-align: center;
+}

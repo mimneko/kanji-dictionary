@@ -1,0 +1,9 @@
+title: webサイト名
+description: webサイトの説明
+baseurl: "/kanji-dictionary"
+url: "https://mimneko.github.io" # サイトのURL。
+author:
+  name: みむねこ
+  github: mimneko
+encoding: UTF-8
+lang: ja
