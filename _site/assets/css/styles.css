@@ -6,6 +6,11 @@ body {
     padding: 20px;
 }
 
+main {
+    max-width: 780px;
+    margin: 0 auto;
+}
+
 h1 {
     text-align: center;
     color: #2f4f4f;
