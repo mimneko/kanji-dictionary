@@ -7,3 +7,4 @@ author:
   github: mimneko
 encoding: UTF-8
 lang: ja
+permalink: /:path/
