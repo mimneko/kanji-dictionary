@@ -1,0 +1,3987 @@
+[
+    {
+        "idNum": "1",
+        "strokeNum": "1",
+        "radicals": [
+            {
+                "id": "R-001-0",
+                "glyph": [
+                    "<img src='img/radicals/R-001-0-0.png' alt='部首「いち」'>"
+                ],
+                "name": [
+                    "いち"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "2",
+        "strokeNum": "1",
+        "radicals": [
+            {
+                "id": "R-002-0",
+                "glyph": [
+                    "<img src='img/radicals/R-002-0-0.png' alt='部首「ぼう」'>"
+                ],
+                "name": [
+                    "ぼう",
+                    "たてぼう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "3",
+        "strokeNum": "1",
+        "radicals": [
+            {
+                "id": "R-003-0",
+                "glyph": [
+                    "<img src='img/radicals/R-003-0-0.png' alt='部首「てん」'>"
+                ],
+                "name": [
+                    "てん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "4",
+        "strokeNum": "1",
+        "radicals": [
+            {
+                "id": "R-004-0",
+                "glyph": [
+                    "<img src='img/radicals/R-004-0-0.png' alt='部首「の」'>"
+                ],
+                "name": [
+                    "の",
+                    "はらいぼう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "5",
+        "strokeNum": "1",
+        "radicals": [
+            {
+                "id": "R-005-0",
+                "glyph": [
+                    "<img src='img/radicals/R-005-0-0.png' alt='部首「おつ」'>"
+                ],
+                "name": [
+                    "おつ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "6",
+        "strokeNum": "1",
+        "radicals": [
+            {
+                "id": "R-006-0",
+                "glyph": [
+                    "<img src='img/radicals/R-006-0-0.png' alt='部首「はねぼう」'>"
+                ],
+                "name": [
+                    "はねぼう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "7",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-007-0",
+                "glyph": [
+                    "<img src='img/radicals/R-007-0-0.png' alt='部首「に」'>"
+                ],
+                "name": [
+                    "に"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "8",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-008-0",
+                "glyph": [
+                    "<img src='img/radicals/R-008-0-0.png' alt='部首「なべぶた」'>"
+                ],
+                "name": [
+                    "なべぶた",
+                    "けいさんかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "9",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-009-0",
+                "glyph": [
+                    "<img src='img/radicals/R-009-0-0.png' alt='部首「ひと」'>"
+                ],
+                "name": [
+                    "ひと"
+                ]
+            },
+            {
+                "id": "R-009-1",
+                "glyph": [
+                    "<img src='img/radicals/R-009-1-0.png' alt='部首「にんべん」'>"
+                ],
+                "name": [
+                    "にんべん"
+                ]
+            },
+            {
+                "id": "R-009-2",
+                "glyph": [
+                    "<img src='img/radicals/R-009-2-0.png' alt='部首「ひとやね」'>"
+                ],
+                "name": [
+                    "ひとやね"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "10",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-010-0",
+                "glyph": [
+                    "<img src='img/radicals/R-010-0-0.png' alt='部首「ひとあし」'>",
+                    "<img src='img/radicals/R-010-0-1.png' alt='部首「ひとあし」'>"
+                ],
+                "name": [
+                    "ひとあし",
+                    "にんにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "11",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-011-0",
+                "glyph": [
+                    "<img src='img/radicals/R-011-0-0.png' alt='部首「いる」'>"
+                ],
+                "name": [
+                    "いる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "12",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-012-0",
+                "glyph": [
+                    "<img src='img/radicals/R-012-0-0.png' alt='部首「はち」'>"
+                ],
+                "name": [
+                    "はち"
+                ]
+            },
+            {
+                "id": "R-012-1",
+                "glyph": [
+                    "<img src='img/radicals/R-012-1-0.png' alt='部首「は」'>"
+                ],
+                "name": [
+                    "は"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "13",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-013-0",
+                "glyph": [
+                    "<img src='img/radicals/R-013-0-0.png' alt='部首「どうがまえ」'>"
+                ],
+                "name": [
+                    "どうがまえ",
+                    "けいがまえ",
+                    "まきがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "14",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-014-0",
+                "glyph": [
+                    "<img src='img/radicals/R-014-0-0.png' alt='部首「わかんむり」'>"
+                ],
+                "name": [
+                    "わかんむり",
+                    "ひらかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "15",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-015-0",
+                "glyph": [
+                    "<img src='img/radicals/R-015-0-0.png' alt='部首「にすい」'>"
+                ],
+                "name": [
+                    "にすい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "16",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-016-0",
+                "glyph": [
+                    "<img src='img/radicals/R-016-0-0.png' alt='部首「つくえ」'>"
+                ],
+                "name": [
+                    "つくえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "17",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-017-0",
+                "glyph": [
+                    "<img src='img/radicals/R-017-0-0.png' alt='部首「うけばこ」'>"
+                ],
+                "name": [
+                    "うけばこ",
+                    "かんがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "18",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-018-0",
+                "glyph": [
+                    "<img src='img/radicals/R-018-0-0.png' alt='部首「かたな」'>"
+                ],
+                "name": [
+                    "かたな"
+                ]
+            },
+            {
+                "id": "R-018-1",
+                "glyph": [
+                    "<img src='img/radicals/R-018-1-0.png' alt='部首「りっとう」'>"
+                ],
+                "name": [
+                    "りっとう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "19",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-019-0",
+                "glyph": [
+                    "<img src='img/radicals/R-019-0-0.png' alt='部首「ちから」'>"
+                ],
+                "name": [
+                    "ちから"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "20",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-020-0",
+                "glyph": [
+                    "<img src='img/radicals/R-020-0-0.png' alt='部首「つつみがまえ」'>"
+                ],
+                "name": [
+                    "つつみがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "21",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-021-0",
+                "glyph": [
+                    "<img src='img/radicals/R-021-0-0.png' alt='部首「ひ」'>"
+                ],
+                "name": [
+                    "ひ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "22",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-022-0",
+                "glyph": [
+                    "<img src='img/radicals/R-022-0-0.png' alt='部首「はこがまえ」'>"
+                ],
+                "name": [
+                    "はこがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "23",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-023-0",
+                "glyph": [
+                    "<img src='img/radicals/R-023-0-0.png' alt='部首「かくしがまえ」'>"
+                ],
+                "name": [
+                    "かくしがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "24",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-024-0",
+                "glyph": [
+                    "<img src='img/radicals/R-024-0-0.png' alt='部首「じゅう」'>"
+                ],
+                "name": [
+                    "じゅう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "25",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-025-0",
+                "glyph": [
+                    "<img src='img/radicals/R-025-0-0.png' alt='部首「ぼく」'>"
+                ],
+                "name": [
+                    "ぼく",
+                    "と",
+                    "うらない"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "26",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-026-0",
+                "glyph": [
+                    "<img src='img/radicals/R-026-0-0.png' alt='部首「わりふ」'>",
+                    "<img src='img/radicals/R-026-0-1.png' alt='部首「わりふ」'>"
+                ],
+                "name": [
+                    "わりふ",
+                    "ふしづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "27",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-027-0",
+                "glyph": [
+                    "<img src='img/radicals/R-027-0-0.png' alt='部首「がんだれ」'>"
+                ],
+                "name": [
+                    "がんだれ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "28",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-028-0",
+                "glyph": [
+                    "<img src='img/radicals/R-028-0-0.png' alt='部首「む」'>"
+                ],
+                "name": [
+                    "む"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "29",
+        "strokeNum": "2",
+        "radicals": [
+            {
+                "id": "R-029-0",
+                "glyph": [
+                    "<img src='img/radicals/R-029-0-0.png' alt='部首「また」'>"
+                ],
+                "name": [
+                    "また"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "30",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-030-0",
+                "glyph": [
+                    "<img src='img/radicals/R-030-0-0.png' alt='部首「くち」'>"
+                ],
+                "name": [
+                    "くち"
+                ]
+            },
+            {
+                "id": "R-030-1",
+                "glyph": [
+                    "<img src='img/radicals/R-030-1-0.png' alt='部首「くちへん」'>"
+                ],
+                "name": [
+                    "くちへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "31",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-031-0",
+                "glyph": [
+                    "<img src='img/radicals/R-031-0-0.png' alt='部首「くにがまえ」'>"
+                ],
+                "name": [
+                    "くにがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "32",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-032-0",
+                "glyph": [
+                    "<img src='img/radicals/R-032-0-0.png' alt='部首「つち」'>"
+                ],
+                "name": [
+                    "つち"
+                ]
+            },
+            {
+                "id": "R-032-1",
+                "glyph": [
+                    "<img src='img/radicals/R-032-1-0.png' alt='部首「つちへん」'>"
+                ],
+                "name": [
+                    "つちへん",
+                    "どへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "33",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-033-0",
+                "glyph": [
+                    "<img src='img/radicals/R-033-0-0.png' alt='部首「さむらい」'>"
+                ],
+                "name": [
+                    "さむらい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "34",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-034-0",
+                "glyph": [
+                    "<img src='img/radicals/R-034-0-0.png' alt='部首「ふゆがしら」'>"
+                ],
+                "name": [
+                    "ふゆがしら",
+                    "ち"
+                ]
+            },
+            {
+                "id": "R-034-1",
+                "glyph": [
+                    "<img src='img/radicals/R-034-1-0.png' alt='部首「すいにょう」'>"
+                ],
+                "name": [
+                    "すいにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "35",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-035-0",
+                "glyph": [
+                    "<img src='img/radicals/R-035-0-0.png' alt='部首「た」'>"
+                ],
+                "name": [
+                    "た",
+                    "ゆうべ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "36",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-036-0",
+                "glyph": [
+                    "<img src='img/radicals/R-036-0-0.png' alt='部首「だい」'>"
+                ],
+                "name": [
+                    "だい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "37",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-037-0",
+                "glyph": [
+                    "<img src='img/radicals/R-037-0-0.png' alt='部首「おんな」'>"
+                ],
+                "name": [
+                    "おんな"
+                ]
+            },
+            {
+                "id": "R-037-1",
+                "glyph": [
+                    "<img src='img/radicals/R-037-1-0.png' alt='部首「おんなへん」'>"
+                ],
+                "name": [
+                    "おんなへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "38",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-038-0",
+                "glyph": [
+                    "<img src='img/radicals/R-038-0-0.png' alt='部首「こ」'>"
+                ],
+                "name": [
+                    "こ"
+                ]
+            },
+            {
+                "id": "R-038-1",
+                "glyph": [
+                    "<img src='img/radicals/R-038-1-0.png' alt='部首「こへん」'>"
+                ],
+                "name": [
+                    "こへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "39",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-039-0",
+                "glyph": [
+                    "<img src='img/radicals/R-039-0-0.png' alt='部首「うかんむり」'>"
+                ],
+                "name": [
+                    "うかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "40",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-040-0",
+                "glyph": [
+                    "<img src='img/radicals/R-040-0-0.png' alt='部首「すん」'>"
+                ],
+                "name": [
+                    "すん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "41",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-041-0",
+                "glyph": [
+                    "<img src='img/radicals/R-041-0-0.png' alt='部首「しょう」'>",
+                    "<img src='img/radicals/R-041-0-1.png' alt='部首「しょう」'>"
+                ],
+                "name": [
+                    "しょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "42",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-042-0",
+                "glyph": [
+                    "<img src='img/radicals/R-042-0-0.png' alt='部首「だいのまげあし」'>"
+                ],
+                "name": [
+                    "だいのまげあし"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "43",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-043-0",
+                "glyph": [
+                    "<img src='img/radicals/R-043-0-0.png' alt='部首「かばね」'>"
+                ],
+                "name": [
+                    "かばね",
+                    "しかばね"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "44",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-044-0",
+                "glyph": [
+                    "<img src='img/radicals/R-044-0-0.png' alt='部首「てつ」'>"
+                ],
+                "name": [
+                    "てつ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "45",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-045-0",
+                "glyph": [
+                    "<img src='img/radicals/R-045-0-0.png' alt='部首「やま」'>"
+                ],
+                "name": [
+                    "やま"
+                ]
+            },
+            {
+                "id": "R-045-1",
+                "glyph": [
+                    "<img src='img/radicals/R-045-1-0.png' alt='部首「やまへん」'>"
+                ],
+                "name": [
+                    "やまへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "46",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-046-0",
+                "glyph": [
+                    "<img src='img/radicals/R-046-0-0.png' alt='部首「かわ」'>"
+                ],
+                "name": [
+                    "かわ"
+                ]
+            },
+            {
+                "id": "R-046-1",
+                "glyph": [
+                    "<img src='img/radicals/R-046-1-0.png' alt='部首「まげかわ」'>"
+                ],
+                "name": [
+                    "まげかわ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "47",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-047-0",
+                "glyph": [
+                    "<img src='img/radicals/R-047-0-0.png' alt='部首「え」'>"
+                ],
+                "name": [
+                    "え",
+                    "たくみ"
+                ]
+            },
+            {
+                "id": "R-047-1",
+                "glyph": [
+                    "<img src='img/radicals/R-047-1-0.png' alt='部首「たくみへん」'>"
+                ],
+                "name": [
+                    "たくみへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "48",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-048-0",
+                "glyph": [
+                    "<img src='img/radicals/R-048-0-0.png' alt='部首「おのれ」'>"
+                ],
+                "name": [
+                    "おのれ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "49",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-049-0",
+                "glyph": [
+                    "<img src='img/radicals/R-049-0-0.png' alt='部首「はば」'>"
+                ],
+                "name": [
+                    "はば"
+                ]
+            },
+            {
+                "id": "R-049-1",
+                "glyph": [
+                    "<img src='img/radicals/R-049-1-0.png' alt='部首「はばへん」'>"
+                ],
+                "name": [
+                    "はばへん",
+                    "きんべん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "50",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-050-0",
+                "glyph": [
+                    "<img src='img/radicals/R-050-0-0.png' alt='部首「かん」'>"
+                ],
+                "name": [
+                    "かん",
+                    "いちじゅう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "51",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-051-0",
+                "glyph": [
+                    "<img src='img/radicals/R-051-0-0.png' alt='部首「よう」'>"
+                ],
+                "name": [
+                    "よう",
+                    "いとがしら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "52",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-052-0",
+                "glyph": [
+                    "<img src='img/radicals/R-052-0-0.png' alt='部首「まだれ」'>"
+                ],
+                "name": [
+                    "まだれ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "53",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-053-0",
+                "glyph": [
+                    "<img src='img/radicals/R-053-0-0.png' alt='部首「えんにょう」'>"
+                ],
+                "name": [
+                    "えんにょう",
+                    "いんにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "54",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-054-0",
+                "glyph": [
+                    "<img src='img/radicals/R-054-0-0.png' alt='部首「こまぬき」'>",
+                    "<img src='img/radicals/R-054-0-1.png' alt='部首「こまぬき」'>"
+                ],
+                "name": [
+                    "こまぬき",
+                    "にじゅうあし"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "55",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-055-0",
+                "glyph": [
+                    "<img src='img/radicals/R-055-0-0.png' alt='部首「しきがまえ」'>"
+                ],
+                "name": [
+                    "しきがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "56",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-056-0",
+                "glyph": [
+                    "<img src='img/radicals/R-056-0-0.png' alt='部首「ゆみ」'>"
+                ],
+                "name": [
+                    "ゆみ"
+                ]
+            },
+            {
+                "id": "R-056-1",
+                "glyph": [
+                    "<img src='img/radicals/R-056-1-0.png' alt='部首「ゆみへん」'>"
+                ],
+                "name": [
+                    "ゆみへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "57",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-057-0",
+                "glyph": [
+                    "<img src='img/radicals/R-057-0-0.png' alt='部首「けいがしら」'>",
+                    "<img src='img/radicals/R-057-0-1.png' alt='部首「けいがしら」'>",
+                    "<img src='img/radicals/R-057-0-2.png' alt='部首「けいがしら」'>"
+                ],
+                "name": [
+                    "けいがしら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "58",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-058-0",
+                "glyph": [
+                    "<img src='img/radicals/R-058-0-0.png' alt='部首「さんづくり」'>"
+                ],
+                "name": [
+                    "さんづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "59",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-059-0",
+                "glyph": [
+                    "<img src='img/radicals/R-059-0-0.png' alt='部首「ぎょうにんべん」'>"
+                ],
+                "name": [
+                    "ぎょうにんべん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "60",
+        "strokeNum": "3",
+        "radicals": [
+            {
+                "id": "R-060-0",
+                "glyph": [
+                    "<img src='img/radicals/R-060-0-0.png' alt='部首「つかんむり」'>"
+                ],
+                "name": [
+                    "つかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "61",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-061-0",
+                "glyph": [
+                    "<img src='img/radicals/R-061-0-0.png' alt='部首「こころ」'>"
+                ],
+                "name": [
+                    "こころ"
+                ]
+            },
+            {
+                "id": "R-061-1",
+                "glyph": [
+                    "<img src='img/radicals/R-061-1-0.png' alt='部首「りっしんべん」'>"
+                ],
+                "name": [
+                    "りっしんべん"
+                ]
+            },
+            {
+                "id": "R-061-2",
+                "glyph": [
+                    "<img src='img/radicals/R-061-2-0.png' alt='部首「したごころ」'>"
+                ],
+                "name": [
+                    "したごころ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "62",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-062-0",
+                "glyph": [
+                    "<img src='img/radicals/R-062-0-0.png' alt='部首「ほこ」'>"
+                ],
+                "name": [
+                    "ほこ",
+                    "ほこづくり",
+                    "ほこがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "63",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-063-0",
+                "glyph": [
+                    "<img src='img/radicals/R-063-0-0.png' alt='部首「と」'>",
+                    "<img src='img/radicals/R-063-0-1.png' alt='部首「と」'>"
+                ],
+                "name": [
+                    "と"
+                ]
+            },
+            {
+                "id": "R-063-1",
+                "glyph": [
+                    "<img src='img/radicals/R-063-1-0.png' alt='部首「とだれ」'>"
+                ],
+                "name": [
+                    "とだれ",
+                    "とかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "64",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-064-0",
+                "glyph": [
+                    "<img src='img/radicals/R-064-0-0.png' alt='部首「て」'>"
+                ],
+                "name": [
+                    "て"
+                ]
+            },
+            {
+                "id": "R-064-1",
+                "glyph": [
+                    "<img src='img/radicals/R-064-1-0.png' alt='部首「てへん」'>"
+                ],
+                "name": [
+                    "てへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "65",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-065-0",
+                "glyph": [
+                    "<img src='img/radicals/R-065-0-0.png' alt='部首「し」'>"
+                ],
+                "name": [
+                    "し",
+                    "えだにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "66",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-066-0",
+                "glyph": [
+                    "<img src='img/radicals/R-066-0-0.png' alt='部首「のぶん」'>"
+                ],
+                "name": [
+                    "のぶん"
+                ]
+            },
+            {
+                "id": "R-066-1",
+                "glyph": [
+                    "<img src='img/radicals/R-066-1-0.png' alt='部首「ぼくづくり」'>"
+                ],
+                "name": [
+                    "ぼくづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "67",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-067-0",
+                "glyph": [
+                    "<img src='img/radicals/R-067-0-0.png' alt='部首「ぶん」'>"
+                ],
+                "name": [
+                    "ぶん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "68",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-068-0",
+                "glyph": [
+                    "<img src='img/radicals/R-068-0-0.png' alt='部首「とます」'>"
+                ],
+                "name": [
+                    "とます"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "69",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-069-0",
+                "glyph": [
+                    "<img src='img/radicals/R-069-0-0.png' alt='部首「きん」'>"
+                ],
+                "name": [
+                    "きん"
+                ]
+            },
+            {
+                "id": "R-069-1",
+                "glyph": [
+                    "<img src='img/radicals/R-069-1-0.png' alt='部首「おのづくり」'>"
+                ],
+                "name": [
+                    "おのづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "70",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-070-0",
+                "glyph": [
+                    "<img src='img/radicals/R-070-0-0.png' alt='部首「ほう」'>"
+                ],
+                "name": [
+                    "ほう"
+                ]
+            },
+            {
+                "id": "R-070-1",
+                "glyph": [
+                    "<img src='img/radicals/R-070-1-0.png' alt='部首「ほうへん」'>"
+                ],
+                "name": [
+                    "ほうへん",
+                    "かたへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "71",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-071-0",
+                "glyph": [
+                    "<img src='img/radicals/R-071-0-0.png' alt='部首「なし」'>",
+                    "<img src='img/radicals/R-071-0-1.png' alt='部首「なし」'>"
+                ],
+                "name": [
+                    "なし",
+                    "ぶ",
+                    "すでのつくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "72",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-072-0",
+                "glyph": [
+                    "<img src='img/radicals/R-072-0-0.png' alt='部首「ひ」'>"
+                ],
+                "name": [
+                    "ひ"
+                ]
+            },
+            {
+                "id": "R-072-1",
+                "glyph": [
+                    "<img src='img/radicals/R-072-1-0.png' alt='部首「ひへん」'>"
+                ],
+                "name": [
+                    "ひへん",
+                    "にちへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "73",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-073-0",
+                "glyph": [
+                    "<img src='img/radicals/R-073-0-0.png' alt='部首「ひらび」'>"
+                ],
+                "name": [
+                    "ひらび",
+                    "いわく"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "74",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-074-0",
+                "glyph": [
+                    "<img src='img/radicals/R-074-0-0.png' alt='部首「つき」'>"
+                ],
+                "name": [
+                    "つき"
+                ]
+            },
+            {
+                "id": "R-074-1",
+                "glyph": [
+                    "<img src='img/radicals/R-074-1-0.png' alt='部首「つきへん」'>"
+                ],
+                "name": [
+                    "つきへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "75",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-075-0",
+                "glyph": [
+                    "<img src='img/radicals/R-075-0-0.png' alt='部首「き」'>"
+                ],
+                "name": [
+                    "き"
+                ]
+            },
+            {
+                "id": "R-075-1",
+                "glyph": [
+                    "<img src='img/radicals/R-075-1-0.png' alt='部首「きへん」'>"
+                ],
+                "name": [
+                    "きへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "76",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-076-0",
+                "glyph": [
+                    "<img src='img/radicals/R-076-0-0.png' alt='部首「あくび」'>"
+                ],
+                "name": [
+                    "あくび",
+                    "かける"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "77",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-077-0",
+                "glyph": [
+                    "<img src='img/radicals/R-077-0-0.png' alt='部首「とめる」'>"
+                ],
+                "name": [
+                    "とめる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "78",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-078-0",
+                "glyph": [
+                    "<img src='img/radicals/R-078-0-0.png' alt='部首「かばねへん」'>",
+                    "<img src='img/radicals/R-078-0-1.png' alt='部首「かばねへん」'>"
+                ],
+                "name": [
+                    "かばねへん",
+                    "いちたへん",
+                    "がつへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "79",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-079-0",
+                "glyph": [
+                    "<img src='img/radicals/R-079-0-0.png' alt='部首「るまた」'>"
+                ],
+                "name": [
+                    "るまた",
+                    "ほこづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "80",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-080-0",
+                "glyph": [
+                    "<img src='img/radicals/R-080-0-0.png' alt='部首「なかれ」'>"
+                ],
+                "name": [
+                    "なかれ",
+                    "ははのかん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "81",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-081-0",
+                "glyph": [
+                    "<img src='img/radicals/R-081-0-0.png' alt='部首「ならびひ」'>"
+                ],
+                "name": [
+                    "ならびひ",
+                    "くらべる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "82",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-082-0",
+                "glyph": [
+                    "<img src='img/radicals/R-082-0-0.png' alt='部首「け」'>"
+                ],
+                "name": [
+                    "け"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "83",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-083-0",
+                "glyph": [
+                    "<img src='img/radicals/R-083-0-0.png' alt='部首「うじ」'>"
+                ],
+                "name": [
+                    "うじ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "84",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-084-0",
+                "glyph": [
+                    "<img src='img/radicals/R-084-0-0.png' alt='部首「きがまえ」'>"
+                ],
+                "name": [
+                    "きがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "85",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-085-0",
+                "glyph": [
+                    "<img src='img/radicals/R-085-0-0.png' alt='部首「みず」'>"
+                ],
+                "name": [
+                    "みず"
+                ]
+            },
+            {
+                "id": "R-085-1",
+                "glyph": [
+                    "<img src='img/radicals/R-085-1-0.png' alt='部首「さんずい」'>"
+                ],
+                "name": [
+                    "さんずい"
+                ]
+            },
+            {
+                "id": "R-085-2",
+                "glyph": [
+                    "<img src='img/radicals/R-085-2-0.png' alt='部首「したみず」'>"
+                ],
+                "name": [
+                    "したみず"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "86",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-086-0",
+                "glyph": [
+                    "<img src='img/radicals/R-086-0-0.png' alt='部首「ひ」'>"
+                ],
+                "name": [
+                    "ひ"
+                ]
+            },
+            {
+                "id": "R-086-1",
+                "glyph": [
+                    "<img src='img/radicals/R-086-1-0.png' alt='部首「ひへん」'>"
+                ],
+                "name": [
+                    "ひへん"
+                ]
+            },
+            {
+                "id": "R-086-2",
+                "glyph": [
+                    "<img src='img/radicals/R-086-2-0.png' alt='部首「れんが」'>"
+                ],
+                "name": [
+                    "れんが",
+                    "れっか"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "87",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-087-0",
+                "glyph": [
+                    "<img src='img/radicals/R-087-0-0.png' alt='部首「つめ」'>"
+                ],
+                "name": [
+                    "つめ"
+                ]
+            },
+            {
+                "id": "R-087-1",
+                "glyph": [
+                    "<img src='img/radicals/R-087-1-0.png' alt='部首「つめかんむり」'>",
+                    "<img src='img/radicals/R-087-1-1.png' alt='部首「つめかんむり」'>"
+                ],
+                "name": [
+                    "つめかんむり",
+                    "つめがしら"
+                ]
+            },
+            {
+                "id": "R-087-2",
+                "glyph": [
+                    "<img src='img/radicals/R-087-2-0.png' alt='部首「そうにょう」'>"
+                ],
+                "name": [
+                    "そうにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "88",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-088-0",
+                "glyph": [
+                    "<img src='img/radicals/R-088-0-0.png' alt='部首「ちち」'>"
+                ],
+                "name": [
+                    "ちち"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "89",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-089-0",
+                "glyph": [
+                    "<img src='img/radicals/R-089-0-0.png' alt='部首「まじわる」'>"
+                ],
+                "name": [
+                    "まじわる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "90",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-090-0",
+                "glyph": [
+                    "<img src='img/radicals/R-090-0-0.png' alt='部首「しょうへん」'>"
+                ],
+                "name": [
+                    "しょうへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "91",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-091-0",
+                "glyph": [
+                    "<img src='img/radicals/R-091-0-0.png' alt='部首「かた」'>"
+                ],
+                "name": [
+                    "かた"
+                ]
+            },
+            {
+                "id": "R-091-1",
+                "glyph": [
+                    "<img src='img/radicals/R-091-1-0.png' alt='部首「かたへん」'>"
+                ],
+                "name": [
+                    "かたへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "92",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-092-0",
+                "glyph": [
+                    "<img src='img/radicals/R-092-0-0.png' alt='部首「きば」'>"
+                ],
+                "name": [
+                    "きば"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "93",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-093-0",
+                "glyph": [
+                    "<img src='img/radicals/R-093-0-0.png' alt='部首「うし」'>"
+                ],
+                "name": [
+                    "うし"
+                ]
+            },
+            {
+                "id": "R-093-1",
+                "glyph": [
+                    "<img src='img/radicals/R-093-1-0.png' alt='部首「うしへん」'>"
+                ],
+                "name": [
+                    "うしへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "94",
+        "strokeNum": "4",
+        "radicals": [
+            {
+                "id": "R-094-0",
+                "glyph": [
+                    "<img src='img/radicals/R-094-0-0.png' alt='部首「いぬ」'>"
+                ],
+                "name": [
+                    "いぬ"
+                ]
+            },
+            {
+                "id": "R-094-1",
+                "glyph": [
+                    "<img src='img/radicals/R-094-1-0.png' alt='部首「けものへん」'>"
+                ],
+                "name": [
+                    "けものへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "95",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-095-0",
+                "glyph": [
+                    "<img src='img/radicals/R-095-0-0.png' alt='部首「げん」'>"
+                ],
+                "name": [
+                    "げん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "96",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-096-0",
+                "glyph": [
+                    "<img src='img/radicals/R-096-0-0.png' alt='部首「たま」'>"
+                ],
+                "name": [
+                    "たま"
+                ]
+            },
+            {
+                "id": "R-096-1",
+                "glyph": [
+                    "<img src='img/radicals/R-096-1-0.png' alt='部首「おう」'>"
+                ],
+                "name": [
+                    "おう"
+                ]
+            },
+            {
+                "id": "R-096-2",
+                "glyph": [
+                    "<img src='img/radicals/R-096-2-0.png' alt='部首「おうへん」'>"
+                ],
+                "name": [
+                    "おうへん",
+                    "たまへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "97",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-097-0",
+                "glyph": [
+                    "<img src='img/radicals/R-097-0-0.png' alt='部首「うり」'>",
+                    "<img src='img/radicals/R-097-0-1.png' alt='部首「うり」'>"
+                ],
+                "name": [
+                    "うり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "98",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-098-0",
+                "glyph": [
+                    "<img src='img/radicals/R-098-0-0.png' alt='部首「かわら」'>"
+                ],
+                "name": [
+                    "かわら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "99",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-099-0",
+                "glyph": [
+                    "<img src='img/radicals/R-099-0-0.png' alt='部首「かん」'>"
+                ],
+                "name": [
+                    "かん",
+                    "あまい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "100",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-100-0",
+                "glyph": [
+                    "<img src='img/radicals/R-100-0-0.png' alt='部首「うまれる」'>"
+                ],
+                "name": [
+                    "うまれる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "101",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-101-0",
+                "glyph": [
+                    "<img src='img/radicals/R-101-0-0.png' alt='部首「もちいる」'>"
+                ],
+                "name": [
+                    "もちいる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "102",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-102-0",
+                "glyph": [
+                    "<img src='img/radicals/R-102-0-0.png' alt='部首「た」'>"
+                ],
+                "name": [
+                    "た"
+                ]
+            },
+            {
+                "id": "R-102-1",
+                "glyph": [
+                    "<img src='img/radicals/R-102-1-0.png' alt='部首「たへん」'>"
+                ],
+                "name": [
+                    "たへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "103",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-103-0",
+                "glyph": [
+                    "<img src='img/radicals/R-103-0-0.png' alt='部首「ひき」'>"
+                ],
+                "name": [
+                    "ひき"
+                ]
+            },
+            {
+                "id": "R-103-1",
+                "glyph": [
+                    "<img src='img/radicals/R-103-1-0.png' alt='部首「ひきへん」'>"
+                ],
+                "name": [
+                    "ひきへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "104",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-104-0",
+                "glyph": [
+                    "<img src='img/radicals/R-104-0-0.png' alt='部首「やまいだれ」'>"
+                ],
+                "name": [
+                    "やまいだれ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "105",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-105-0",
+                "glyph": [
+                    "<img src='img/radicals/R-105-0-0.png' alt='部首「はつがしら」'>"
+                ],
+                "name": [
+                    "はつがしら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "106",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-106-0",
+                "glyph": [
+                    "<img src='img/radicals/R-106-0-0.png' alt='部首「しろ」'>"
+                ],
+                "name": [
+                    "しろ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "107",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-107-0",
+                "glyph": [
+                    "<img src='img/radicals/R-107-0-0.png' alt='部首「けがわ」'>"
+                ],
+                "name": [
+                    "けがわ",
+                    "ひのへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "108",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-108-0",
+                "glyph": [
+                    "<img src='img/radicals/R-108-0-0.png' alt='部首「さら」'>"
+                ],
+                "name": [
+                    "さら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "109",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-109-0",
+                "glyph": [
+                    "<img src='img/radicals/R-109-0-0.png' alt='部首「め」'>"
+                ],
+                "name": [
+                    "め"
+                ]
+            },
+            {
+                "id": "R-109-1",
+                "glyph": [
+                    "<img src='img/radicals/R-109-1-0.png' alt='部首「めへん」'>"
+                ],
+                "name": [
+                    "めへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "110",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-110-0",
+                "glyph": [
+                    "<img src='img/radicals/R-110-0-0.png' alt='部首「ほこ」'>"
+                ],
+                "name": [
+                    "ほこ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "111",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-111-0",
+                "glyph": [
+                    "<img src='img/radicals/R-111-0-0.png' alt='部首「や」'>"
+                ],
+                "name": [
+                    "や"
+                ]
+            },
+            {
+                "id": "R-111-1",
+                "glyph": [
+                    "<img src='img/radicals/R-111-1-0.png' alt='部首「やへん」'>"
+                ],
+                "name": [
+                    "やへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "112",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-112-0",
+                "glyph": [
+                    "<img src='img/radicals/R-112-0-0.png' alt='部首「いし」'>"
+                ],
+                "name": [
+                    "いし"
+                ]
+            },
+            {
+                "id": "R-112-1",
+                "glyph": [
+                    "<img src='img/radicals/R-112-1-0.png' alt='部首「いしへん」'>"
+                ],
+                "name": [
+                    "いしへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "113",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-113-0",
+                "glyph": [
+                    "<img src='img/radicals/R-113-0-0.png' alt='部首「しめす」'>"
+                ],
+                "name": [
+                    "しめす"
+                ]
+            },
+            {
+                "id": "R-113-1",
+                "glyph": [
+                    "<img src='img/radicals/R-113-1-0.png' alt='部首「しめすへん」'>",
+                    "<img src='img/radicals/R-113-1-1.png' alt='部首「しめすへん」'>"
+                ],
+                "name": [
+                    "しめすへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "114",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-114-0",
+                "glyph": [
+                    "<img src='img/radicals/R-114-0-0.png' alt='部首「じゅう」'>"
+                ],
+                "name": [
+                    "じゅう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "115",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-115-0",
+                "glyph": [
+                    "<img src='img/radicals/R-115-0-0.png' alt='部首「のぎ」'>"
+                ],
+                "name": [
+                    "のぎ"
+                ]
+            },
+            {
+                "id": "R-115-1",
+                "glyph": [
+                    "<img src='img/radicals/R-115-1-0.png' alt='部首「のぎへん」'>"
+                ],
+                "name": [
+                    "のぎへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "116",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-116-0",
+                "glyph": [
+                    "<img src='img/radicals/R-116-0-0.png' alt='部首「あな」'>"
+                ],
+                "name": [
+                    "あな"
+                ]
+            },
+            {
+                "id": "R-116-1",
+                "glyph": [
+                    "<img src='img/radicals/R-116-1-0.png' alt='部首「あなかんむり」'>"
+                ],
+                "name": [
+                    "あなかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "117",
+        "strokeNum": "5",
+        "radicals": [
+            {
+                "id": "R-117-0",
+                "glyph": [
+                    "<img src='img/radicals/R-117-0-0.png' alt='部首「たつ」'>"
+                ],
+                "name": [
+                    "たつ"
+                ]
+            },
+            {
+                "id": "R-117-1",
+                "glyph": [
+                    "<img src='img/radicals/R-117-1-0.png' alt='部首「たつへん」'>"
+                ],
+                "name": [
+                    "たつへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "118",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-118-0",
+                "glyph": [
+                    "<img src='img/radicals/R-118-0-0.png' alt='部首「たけ」'>"
+                ],
+                "name": [
+                    "たけ"
+                ]
+            },
+            {
+                "id": "R-118-1",
+                "glyph": [
+                    "<img src='img/radicals/R-118-1-0.png' alt='部首「たけかんむり」'>"
+                ],
+                "name": [
+                    "たけかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "119",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-119-0",
+                "glyph": [
+                    "<img src='img/radicals/R-119-0-0.png' alt='部首「こめ」'>"
+                ],
+                "name": [
+                    "こめ"
+                ]
+            },
+            {
+                "id": "R-119-1",
+                "glyph": [
+                    "<img src='img/radicals/R-119-1-0.png' alt='部首「こめへん」'>"
+                ],
+                "name": [
+                    "こめへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "120",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-120-0",
+                "glyph": [
+                    "<img src='img/radicals/R-120-0-0.png' alt='部首「いと」'>"
+                ],
+                "name": [
+                    "いと"
+                ]
+            },
+            {
+                "id": "R-120-1",
+                "glyph": [
+                    "<img src='img/radicals/R-120-1-0.png' alt='部首「いとへん」'>"
+                ],
+                "name": [
+                    "いとへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "121",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-121-0",
+                "glyph": [
+                    "<img src='img/radicals/R-121-0-0.png' alt='部首「ほとぎ」'>"
+                ],
+                "name": [
+                    "ほとぎ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "122",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-122-0",
+                "glyph": [
+                    "<img src='img/radicals/R-122-0-0.png' alt='部首「あみがしら」'>",
+                    "<img src='img/radicals/R-122-0-1.png' alt='部首「あみがしら」'>"
+                ],
+                "name": [
+                    "あみがしら",
+                    "あみめ",
+                    "よこめ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "123",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-123-0",
+                "glyph": [
+                    "<img src='img/radicals/R-123-0-0.png' alt='部首「ひつじ」'>"
+                ],
+                "name": [
+                    "ひつじ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "124",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-124-0",
+                "glyph": [
+                    "<img src='img/radicals/R-124-0-0.png' alt='部首「はね」'>",
+                    "<img src='img/radicals/R-124-0-1.png' alt='部首「はね」'>"
+                ],
+                "name": [
+                    "はね"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "125",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-125-0",
+                "glyph": [
+                    "<img src='img/radicals/R-125-0-0.png' alt='部首「おいかんむり」'>",
+                    "<img src='img/radicals/R-125-0-1.png' alt='部首「おいかんむり」'>"
+                ],
+                "name": [
+                    "おいかんむり",
+                    "おいがしら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "126",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-126-0",
+                "glyph": [
+                    "<img src='img/radicals/R-126-0-0.png' alt='部首「しかして」'>"
+                ],
+                "name": [
+                    "しかして",
+                    "しこうして"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "127",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-127-0",
+                "glyph": [
+                    "<img src='img/radicals/R-127-0-0.png' alt='部首「すきへん」'>",
+                    "<img src='img/radicals/R-127-0-1.png' alt='部首「すきへん」'>"
+                ],
+                "name": [
+                    "すきへん",
+                    "らいすき"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "128",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-128-0",
+                "glyph": [
+                    "<img src='img/radicals/R-128-0-0.png' alt='部首「みみ」'>"
+                ],
+                "name": [
+                    "みみ"
+                ]
+            },
+            {
+                "id": "R-128-1",
+                "glyph": [
+                    "<img src='img/radicals/R-128-1-0.png' alt='部首「みみへん」'>"
+                ],
+                "name": [
+                    "みみへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "129",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-129-0",
+                "glyph": [
+                    "<img src='img/radicals/R-129-0-0.png' alt='部首「ふでづくり」'>",
+                    "<img src='img/radicals/R-129-0-1.png' alt='部首「ふでづくり」'>"
+                ],
+                "name": [
+                    "ふでづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "130",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-130-0",
+                "glyph": [
+                    "<img src='img/radicals/R-130-0-0.png' alt='部首「にく」'>"
+                ],
+                "name": [
+                    "にく"
+                ]
+            },
+            {
+                "id": "R-130-1",
+                "glyph": [
+                    "<img src='img/radicals/R-130-1-0.png' alt='部首「にくづき」'>"
+                ],
+                "name": [
+                    "にくづき"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "131",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-131-0",
+                "glyph": [
+                    "<img src='img/radicals/R-131-0-0.png' alt='部首「しん」'>",
+                    "<img src='img/radicals/R-131-0-1.png' alt='部首「しん」'>"
+                ],
+                "name": [
+                    "しん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "132",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-132-0",
+                "glyph": [
+                    "<img src='img/radicals/R-132-0-0.png' alt='部首「みずから」'>"
+                ],
+                "name": [
+                    "みずから"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "133",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-133-0",
+                "glyph": [
+                    "<img src='img/radicals/R-133-0-0.png' alt='部首「いたる」'>"
+                ],
+                "name": [
+                    "いたる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "134",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-134-0",
+                "glyph": [
+                    "<img src='img/radicals/R-134-0-0.png' alt='部首「うす」'>"
+                ],
+                "name": [
+                    "うす"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "135",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-135-0",
+                "glyph": [
+                    "<img src='img/radicals/R-135-0-0.png' alt='部首「した」'>"
+                ],
+                "name": [
+                    "した"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "136",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-136-0",
+                "glyph": [
+                    "<img src='img/radicals/R-136-0-0.png' alt='部首「まいあし」'>",
+                    "<img src='img/radicals/R-136-0-1.png' alt='部首「まいあし」'>",
+                    "<img src='img/radicals/R-136-0-2.png' alt='部首「まいあし」'>"
+                ],
+                "name": [
+                    "まいあし"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "137",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-137-0",
+                "glyph": [
+                    "<img src='img/radicals/R-137-0-0.png' alt='部首「ふね」'>"
+                ],
+                "name": [
+                    "ふね"
+                ]
+            },
+            {
+                "id": "R-137-1",
+                "glyph": [
+                    "<img src='img/radicals/R-137-1-0.png' alt='部首「ふねへん」'>"
+                ],
+                "name": [
+                    "ふねへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "138",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-138-0",
+                "glyph": [
+                    "<img src='img/radicals/R-138-0-0.png' alt='部首「ねづくり」'>"
+                ],
+                "name": [
+                    "ねづくり",
+                    "こんづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "139",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-139-0",
+                "glyph": [
+                    "<img src='img/radicals/R-139-0-0.png' alt='部首「いろ」'>"
+                ],
+                "name": [
+                    "いろ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "140",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-140-0",
+                "glyph": [
+                    "<img src='img/radicals/R-140-0-0.png' alt='部首「くさ」'>"
+                ],
+                "name": [
+                    "くさ"
+                ]
+            },
+            {
+                "id": "R-140-1",
+                "glyph": [
+                    "<img src='img/radicals/R-140-1-0.png' alt='部首「くさかんむり」'>",
+                    "<img src='img/radicals/R-140-1-1.png' alt='部首「くさかんむり」'>"
+                ],
+                "name": [
+                    "くさかんむり",
+                    "そうこう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "141",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-141-0",
+                "glyph": [
+                    "<img src='img/radicals/R-141-0-0.png' alt='部首「とらがしら」'>",
+                    "<img src='img/radicals/R-141-0-1.png' alt='部首「とらがしら」'>"
+                ],
+                "name": [
+                    "とらがしら",
+                    "とらかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "142",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-142-0",
+                "glyph": [
+                    "<img src='img/radicals/R-142-0-0.png' alt='部首「むし」'>"
+                ],
+                "name": [
+                    "むし"
+                ]
+            },
+            {
+                "id": "R-142-1",
+                "glyph": [
+                    "<img src='img/radicals/R-142-1-0.png' alt='部首「むしへん」'>"
+                ],
+                "name": [
+                    "むしへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "143",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-143-0",
+                "glyph": [
+                    "<img src='img/radicals/R-143-0-0.png' alt='部首「ち」'>"
+                ],
+                "name": [
+                    "ち"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "144",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-144-0",
+                "glyph": [
+                    "<img src='img/radicals/R-144-0-0.png' alt='部首「ぎょう」'>"
+                ],
+                "name": [
+                    "ぎょう"
+                ]
+            },
+            {
+                "id": "R-144-1",
+                "glyph": [
+                    "<img src='img/radicals/R-144-1-0.png' alt='部首「ぎょうがまえ」'>"
+                ],
+                "name": [
+                    "ぎょうがまえ",
+                    "ゆきがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "145",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-145-0",
+                "glyph": [
+                    "<img src='img/radicals/R-145-0-0.png' alt='部首「ころも」'>"
+                ],
+                "name": [
+                    "ころも"
+                ]
+            },
+            {
+                "id": "R-145-1",
+                "glyph": [
+                    "<img src='img/radicals/R-145-1-0.png' alt='部首「ころもへん」'>"
+                ],
+                "name": [
+                    "ころもへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "146",
+        "strokeNum": "6",
+        "radicals": [
+            {
+                "id": "R-146-0",
+                "glyph": [
+                    "<img src='img/radicals/R-146-0-0.png' alt='部首「おおいかんむり」'>",
+                    "<img src='img/radicals/R-146-0-1.png' alt='部首「おおいかんむり」'>",
+                    "<img src='img/radicals/R-146-0-2.png' alt='部首「おおいかんむり」'>"
+                ],
+                "name": [
+                    "おおいかんむり",
+                    "にし"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "147",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-147-0",
+                "glyph": [
+                    "<img src='img/radicals/R-147-0-0.png' alt='部首「みる」'>"
+                ],
+                "name": [
+                    "みる"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "148",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-148-0",
+                "glyph": [
+                    "<img src='img/radicals/R-148-0-0.png' alt='部首「かく」'>"
+                ],
+                "name": [
+                    "かく",
+                    "つの"
+                ]
+            },
+            {
+                "id": "R-148-1",
+                "glyph": [
+                    "<img src='img/radicals/R-148-1-0.png' alt='部首「つのへん」'>"
+                ],
+                "name": [
+                    "つのへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "149",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-149-0",
+                "glyph": [
+                    "<img src='img/radicals/R-149-0-0.png' alt='部首「げん」'>"
+                ],
+                "name": [
+                    "げん"
+                ]
+            },
+            {
+                "id": "R-149-1",
+                "glyph": [
+                    "<img src='img/radicals/R-149-1-0.png' alt='部首「ごんべん」'>"
+                ],
+                "name": [
+                    "ごんべん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "150",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-150-0",
+                "glyph": [
+                    "<img src='img/radicals/R-150-0-0.png' alt='部首「たに」'>"
+                ],
+                "name": [
+                    "たに"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "151",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-151-0",
+                "glyph": [
+                    "<img src='img/radicals/R-151-0-0.png' alt='部首「まめ」'>"
+                ],
+                "name": [
+                    "まめ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "152",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-152-0",
+                "glyph": [
+                    "<img src='img/radicals/R-152-0-0.png' alt='部首「ぶた」'>"
+                ],
+                "name": [
+                    "ぶた",
+                    "いのこ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "153",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-153-0",
+                "glyph": [
+                    "<img src='img/radicals/R-153-0-0.png' alt='部首「むじなへん」'>",
+                    "<img src='img/radicals/R-153-0-1.png' alt='部首「むじなへん」'>"
+                ],
+                "name": [
+                    "むじなへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "154",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-154-0",
+                "glyph": [
+                    "<img src='img/radicals/R-154-0-0.png' alt='部首「かい」'>"
+                ],
+                "name": [
+                    "かい",
+                    "こがい"
+                ]
+            },
+            {
+                "id": "R-154-1",
+                "glyph": [
+                    "<img src='img/radicals/R-154-1-0.png' alt='部首「かいへん」'>"
+                ],
+                "name": [
+                    "かいへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "155",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-155-0",
+                "glyph": [
+                    "<img src='img/radicals/R-155-0-0.png' alt='部首「あか」'>"
+                ],
+                "name": [
+                    "あか"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "156",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-156-0",
+                "glyph": [
+                    "<img src='img/radicals/R-156-0-0.png' alt='部首「はしる」'>"
+                ],
+                "name": [
+                    "はしる"
+                ]
+            },
+            {
+                "id": "R-156-1",
+                "glyph": [
+                    "<img src='img/radicals/R-156-1-0.png' alt='部首「そうにょう」'>"
+                ],
+                "name": [
+                    "そうにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "157",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-157-0",
+                "glyph": [
+                    "<img src='img/radicals/R-157-0-0.png' alt='部首「あし」'>"
+                ],
+                "name": [
+                    "あし"
+                ]
+            },
+            {
+                "id": "R-157-1",
+                "glyph": [
+                    "<img src='img/radicals/R-157-1-0.png' alt='部首「あしへん」'>"
+                ],
+                "name": [
+                    "あしへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "158",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-158-0",
+                "glyph": [
+                    "<img src='img/radicals/R-158-0-0.png' alt='部首「み」'>"
+                ],
+                "name": [
+                    "み"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "159",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-159-0",
+                "glyph": [
+                    "<img src='img/radicals/R-159-0-0.png' alt='部首「くるま」'>"
+                ],
+                "name": [
+                    "くるま"
+                ]
+            },
+            {
+                "id": "R-159-1",
+                "glyph": [
+                    "<img src='img/radicals/R-159-1-0.png' alt='部首「くるまへん」'>"
+                ],
+                "name": [
+                    "くるまへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "160",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-160-0",
+                "glyph": [
+                    "<img src='img/radicals/R-160-0-0.png' alt='部首「からい」'>"
+                ],
+                "name": [
+                    "からい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "161",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-161-0",
+                "glyph": [
+                    "<img src='img/radicals/R-161-0-0.png' alt='部首「しんのたつ」'>"
+                ],
+                "name": [
+                    "しんのたつ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "162",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-162-0",
+                "glyph": [
+                    "<img src='img/radicals/R-162-0-0.png' alt='部首「しんにょう」'>",
+                    "<img src='img/radicals/R-162-0-1.png' alt='部首「しんにょう」'>",
+                    "<img src='img/radicals/R-162-0-2.png' alt='部首「しんにょう」'>"
+                ],
+                "name": [
+                    "しんにょう",
+                    "しんにゅう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "163",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-163-0",
+                "glyph": [
+                    "<img src='img/radicals/R-163-0-0.png' alt='部首「おおざと」'>",
+                    "<img src='img/radicals/R-163-0-1.png' alt='部首「おおざと」'>"
+                ],
+                "name": [
+                    "おおざと"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "164",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-164-0",
+                "glyph": [
+                    "<img src='img/radicals/R-164-0-0.png' alt='部首「ひよみのとり」'>"
+                ],
+                "name": [
+                    "ひよみのとり",
+                    "こよみのとり"
+                ]
+            },
+            {
+                "id": "R-164-1",
+                "glyph": [
+                    "<img src='img/radicals/R-164-1-0.png' alt='部首「とりへん」'>"
+                ],
+                "name": [
+                    "とりへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "165",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-165-0",
+                "glyph": [
+                    "<img src='img/radicals/R-165-0-0.png' alt='部首「のごめ」'>"
+                ],
+                "name": [
+                    "のごめ"
+                ]
+            },
+            {
+                "id": "R-165-1",
+                "glyph": [
+                    "<img src='img/radicals/R-165-1-0.png' alt='部首「のごめへん」'>"
+                ],
+                "name": [
+                    "のごめへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "166",
+        "strokeNum": "7",
+        "radicals": [
+            {
+                "id": "R-166-0",
+                "glyph": [
+                    "<img src='img/radicals/R-166-0-0.png' alt='部首「さと」'>"
+                ],
+                "name": [
+                    "さと"
+                ]
+            },
+            {
+                "id": "R-166-1",
+                "glyph": [
+                    "<img src='img/radicals/R-166-1-0.png' alt='部首「さとへん」'>"
+                ],
+                "name": [
+                    "さとへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "167",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-167-0",
+                "glyph": [
+                    "<img src='img/radicals/R-167-0-0.png' alt='部首「かね」'>"
+                ],
+                "name": [
+                    "かね"
+                ]
+            },
+            {
+                "id": "R-167-1",
+                "glyph": [
+                    "<img src='img/radicals/R-167-1-0.png' alt='部首「かねへん」'>"
+                ],
+                "name": [
+                    "かねへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "168",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-168-0",
+                "glyph": [
+                    "<img src='img/radicals/R-168-0-0.png' alt='部首「ながい」'>"
+                ],
+                "name": [
+                    "ながい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "169",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-169-0",
+                "glyph": [
+                    "<img src='img/radicals/R-169-0-0.png' alt='部首「もん」'>"
+                ],
+                "name": [
+                    "もん",
+                    "もんがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "170",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-170-0",
+                "glyph": [
+                    "<img src='img/radicals/R-170-0-0.png' alt='部首「おか」'>"
+                ],
+                "name": [
+                    "おか"
+                ]
+            },
+            {
+                "id": "R-170-1",
+                "glyph": [
+                    "<img src='img/radicals/R-170-1-0.png' alt='部首「こざとへん」'>"
+                ],
+                "name": [
+                    "こざとへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "171",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-171-0",
+                "glyph": [
+                    "<img src='img/radicals/R-171-0-0.png' alt='部首「れいづくり」'>",
+                    "<img src='img/radicals/R-171-0-1.png' alt='部首「れいづくり」'>"
+                ],
+                "name": [
+                    "れいづくり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "172",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-172-0",
+                "glyph": [
+                    "<img src='img/radicals/R-172-0-0.png' alt='部首「ふるとり」'>"
+                ],
+                "name": [
+                    "ふるとり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "173",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-173-0",
+                "glyph": [
+                    "<img src='img/radicals/R-173-0-0.png' alt='部首「あめ」'>"
+                ],
+                "name": [
+                    "あめ"
+                ]
+            },
+            {
+                "id": "R-173-1",
+                "glyph": [
+                    "<img src='img/radicals/R-173-1-0.png' alt='部首「あめかんむり」'>"
+                ],
+                "name": [
+                    "あめかんむり",
+                    "あまかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "174",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-174-0",
+                "glyph": [
+                    "<img src='img/radicals/R-174-0-0.png' alt='部首「あお」'>",
+                    "<img src='img/radicals/R-174-0-1.png' alt='部首「あお」'>"
+                ],
+                "name": [
+                    "あお"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "175",
+        "strokeNum": "8",
+        "radicals": [
+            {
+                "id": "R-175-0",
+                "glyph": [
+                    "<img src='img/radicals/R-175-0-0.png' alt='部首「あらず」'>"
+                ],
+                "name": [
+                    "あらず",
+                    "ひ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "176",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-176-0",
+                "glyph": [
+                    "<img src='img/radicals/R-176-0-0.png' alt='部首「めん」'>"
+                ],
+                "name": [
+                    "めん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "177",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-177-0",
+                "glyph": [
+                    "<img src='img/radicals/R-177-0-0.png' alt='部首「かくのかわ」'>"
+                ],
+                "name": [
+                    "かくのかわ",
+                    "つくりがわ"
+                ]
+            },
+            {
+                "id": "R-177-1",
+                "glyph": [
+                    "<img src='img/radicals/R-177-1-0.png' alt='部首「かわへん」'>"
+                ],
+                "name": [
+                    "かわへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "178",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-178-0",
+                "glyph": [
+                    "<img src='img/radicals/R-178-0-0.png' alt='部首「なめしがわ」'>",
+                    "<img src='img/radicals/R-178-0-1.png' alt='部首「なめしがわ」'>"
+                ],
+                "name": [
+                    "なめしがわ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "179",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-179-0",
+                "glyph": [
+                    "<img src='img/radicals/R-179-0-0.png' alt='部首「にら」'>"
+                ],
+                "name": [
+                    "にら"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "180",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-180-0",
+                "glyph": [
+                    "<img src='img/radicals/R-180-0-0.png' alt='部首「おと」'>"
+                ],
+                "name": [
+                    "おと"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "181",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-181-0",
+                "glyph": [
+                    "<img src='img/radicals/R-181-0-0.png' alt='部首「おおがい」'>",
+                    "<img src='img/radicals/R-181-0-1.png' alt='部首「おおがい」'>"
+                ],
+                "name": [
+                    "おおがい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "182",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-182-0",
+                "glyph": [
+                    "<img src='img/radicals/R-182-0-0.png' alt='部首「かぜ」'>"
+                ],
+                "name": [
+                    "かぜ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "183",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-183-0",
+                "glyph": [
+                    "<img src='img/radicals/R-183-0-0.png' alt='部首「とぶ」'>"
+                ],
+                "name": [
+                    "とぶ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "184",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-184-0",
+                "glyph": [
+                    "<img src='img/radicals/R-184-0-0.png' alt='部首「しょく」'>"
+                ],
+                "name": [
+                    "しょく"
+                ]
+            },
+            {
+                "id": "R-184-1",
+                "glyph": [
+                    "<img src='img/radicals/R-184-1-0.png' alt='部首「しょくへん」'>",
+                    "<img src='img/radicals/R-184-1-1.png' alt='部首「しょくへん」'>"
+                ],
+                "name": [
+                    "しょくへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "185",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-185-0",
+                "glyph": [
+                    "<img src='img/radicals/R-185-0-0.png' alt='部首「くび」'>"
+                ],
+                "name": [
+                    "くび"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "186",
+        "strokeNum": "9",
+        "radicals": [
+            {
+                "id": "R-186-0",
+                "glyph": [
+                    "<img src='img/radicals/R-186-0-0.png' alt='部首「か」'>"
+                ],
+                "name": [
+                    "か",
+                    "かおり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "187",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-187-0",
+                "glyph": [
+                    "<img src='img/radicals/R-187-0-0.png' alt='部首「うま」'>"
+                ],
+                "name": [
+                    "うま"
+                ]
+            },
+            {
+                "id": "R-187-1",
+                "glyph": [
+                    "<img src='img/radicals/R-187-1-0.png' alt='部首「うまへん」'>"
+                ],
+                "name": [
+                    "うまへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "188",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-188-0",
+                "glyph": [
+                    "<img src='img/radicals/R-188-0-0.png' alt='部首「ほね」'>"
+                ],
+                "name": [
+                    "ほね"
+                ]
+            },
+            {
+                "id": "R-188-1",
+                "glyph": [
+                    "<img src='img/radicals/R-188-1-0.png' alt='部首「ほねへん」'>"
+                ],
+                "name": [
+                    "ほねへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "189",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-189-0",
+                "glyph": [
+                    "<img src='img/radicals/R-189-0-0.png' alt='部首「たかい」'>"
+                ],
+                "name": [
+                    "たかい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "190",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-190-0",
+                "glyph": [
+                    "<img src='img/radicals/R-190-0-0.png' alt='部首「かみがしら」'>",
+                    "<img src='img/radicals/R-190-0-1.png' alt='部首「かみがしら」'>"
+                ],
+                "name": [
+                    "かみがしら",
+                    "かみかんむり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "191",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-191-0",
+                "glyph": [
+                    "<img src='img/radicals/R-191-0-0.png' alt='部首「とうがまえ」'>"
+                ],
+                "name": [
+                    "とうがまえ",
+                    "たたかいがまえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "192",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-192-0",
+                "glyph": [
+                    "<img src='img/radicals/R-192-0-0.png' alt='部首「ちょう」'>"
+                ],
+                "name": [
+                    "ちょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "193",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-193-0",
+                "glyph": [
+                    "<img src='img/radicals/R-193-0-0.png' alt='部首「かなえ」'>"
+                ],
+                "name": [
+                    "かなえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "194",
+        "strokeNum": "10",
+        "radicals": [
+            {
+                "id": "R-194-0",
+                "glyph": [
+                    "<img src='img/radicals/R-194-0-0.png' alt='部首「おに」'>"
+                ],
+                "name": [
+                    "おに"
+                ]
+            },
+            {
+                "id": "R-194-1",
+                "glyph": [
+                    "<img src='img/radicals/R-194-1-0.png' alt='部首「きにょう」'>"
+                ],
+                "name": [
+                    "きにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "195",
+        "strokeNum": "11",
+        "radicals": [
+            {
+                "id": "R-195-0",
+                "glyph": [
+                    "<img src='img/radicals/R-195-0-0.png' alt='部首「うお」'>"
+                ],
+                "name": [
+                    "うお"
+                ]
+            },
+            {
+                "id": "R-195-1",
+                "glyph": [
+                    "<img src='img/radicals/R-195-1-0.png' alt='部首「うおへん」'>"
+                ],
+                "name": [
+                    "うおへん",
+                    "さかなへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "196",
+        "strokeNum": "11",
+        "radicals": [
+            {
+                "id": "R-196-0",
+                "glyph": [
+                    "<img src='img/radicals/R-196-0-0.png' alt='部首「とり」'>"
+                ],
+                "name": [
+                    "とり"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "197",
+        "strokeNum": "11",
+        "radicals": [
+            {
+                "id": "R-197-0",
+                "glyph": [
+                    "<img src='img/radicals/R-197-0-0.png' alt='部首「しお」'>"
+                ],
+                "name": [
+                    "しお"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "198",
+        "strokeNum": "11",
+        "radicals": [
+            {
+                "id": "R-198-0",
+                "glyph": [
+                    "<img src='img/radicals/R-198-0-0.png' alt='部首「しか」'>"
+                ],
+                "name": [
+                    "しか"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "199",
+        "strokeNum": "11",
+        "radicals": [
+            {
+                "id": "R-199-0",
+                "glyph": [
+                    "<img src='img/radicals/R-199-0-0.png' alt='部首「むぎ」'>",
+                    "<img src='img/radicals/R-199-0-1.png' alt='部首「むぎ」'>"
+                ],
+                "name": [
+                    "むぎ"
+                ]
+            },
+            {
+                "id": "R-199-1",
+                "glyph": [
+                    "<img src='img/radicals/R-199-1-0.png' alt='部首「ばくにょう」'>",
+                    "<img src='img/radicals/R-199-1-1.png' alt='部首「ばくにょう」'>"
+                ],
+                "name": [
+                    "ばくにょう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "200",
+        "strokeNum": "11",
+        "radicals": [
+            {
+                "id": "R-200-0",
+                "glyph": [
+                    "<img src='img/radicals/R-200-0-0.png' alt='部首「あさ」'>",
+                    "<img src='img/radicals/R-200-0-1.png' alt='部首「あさ」'>"
+                ],
+                "name": [
+                    "あさ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "201",
+        "strokeNum": "12",
+        "radicals": [
+            {
+                "id": "R-201-0",
+                "glyph": [
+                    "<img src='img/radicals/R-201-0-0.png' alt='部首「き」'>",
+                    "<img src='img/radicals/R-201-0-1.png' alt='部首「き」'>"
+                ],
+                "name": [
+                    "き"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "202",
+        "strokeNum": "12",
+        "radicals": [
+            {
+                "id": "R-202-0",
+                "glyph": [
+                    "<img src='img/radicals/R-202-0-0.png' alt='部首「きび」'>"
+                ],
+                "name": [
+                    "きび"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "203",
+        "strokeNum": "12",
+        "radicals": [
+            {
+                "id": "R-203-0",
+                "glyph": [
+                    "<img src='img/radicals/R-203-0-0.png' alt='部首「くろ」'>",
+                    "<img src='img/radicals/R-203-0-1.png' alt='部首「くろ」'>"
+                ],
+                "name": [
+                    "くろ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "204",
+        "strokeNum": "12",
+        "radicals": [
+            {
+                "id": "R-204-0",
+                "glyph": [
+                    "<img src='img/radicals/R-204-0-0.png' alt='部首「ち」'>"
+                ],
+                "name": [
+                    "ち",
+                    "ふつへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "205",
+        "strokeNum": "13",
+        "radicals": [
+            {
+                "id": "R-205-0",
+                "glyph": [
+                    "<img src='img/radicals/R-205-0-0.png' alt='部首「べんあし」'>"
+                ],
+                "name": [
+                    "べんあし"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "206",
+        "strokeNum": "13",
+        "radicals": [
+            {
+                "id": "R-206-0",
+                "glyph": [
+                    "<img src='img/radicals/R-206-0-0.png' alt='部首「かなえ」'>"
+                ],
+                "name": [
+                    "かなえ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "207",
+        "strokeNum": "13",
+        "radicals": [
+            {
+                "id": "R-207-0",
+                "glyph": [
+                    "<img src='img/radicals/R-207-0-0.png' alt='部首「つづみ」'>"
+                ],
+                "name": [
+                    "つづみ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "208",
+        "strokeNum": "13",
+        "radicals": [
+            {
+                "id": "R-208-0",
+                "glyph": [
+                    "<img src='img/radicals/R-208-0-0.png' alt='部首「ねずみ」'>"
+                ],
+                "name": [
+                    "ねずみ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "209",
+        "strokeNum": "14",
+        "radicals": [
+            {
+                "id": "R-209-0",
+                "glyph": [
+                    "<img src='img/radicals/R-209-0-0.png' alt='部首「はな」'>",
+                    "<img src='img/radicals/R-209-0-1.png' alt='部首「はな」'>"
+                ],
+                "name": [
+                    "はな"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "210",
+        "strokeNum": "14",
+        "radicals": [
+            {
+                "id": "R-210-0",
+                "glyph": [
+                    "<img src='img/radicals/R-210-0-0.png' alt='部首「せい」'>",
+                    "<img src='img/radicals/R-210-0-1.png' alt='部首「せい」'>"
+                ],
+                "name": [
+                    "せい"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "211",
+        "strokeNum": "15",
+        "radicals": [
+            {
+                "id": "R-211-0",
+                "glyph": [
+                    "<img src='img/radicals/R-211-0-0.png' alt='部首「は」'>",
+                    "<img src='img/radicals/R-211-0-1.png' alt='部首「は」'>"
+                ],
+                "name": [
+                    "は"
+                ]
+            },
+            {
+                "id": "R-211-1",
+                "glyph": [
+                    "<img src='img/radicals/R-211-1-0.png' alt='部首「はへん」'>"
+                ],
+                "name": [
+                    "はへん"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "212",
+        "strokeNum": "16",
+        "radicals": [
+            {
+                "id": "R-212-0",
+                "glyph": [
+                    "<img src='img/radicals/R-212-0-0.png' alt='部首「りゅう」'>",
+                    "<img src='img/radicals/R-212-0-1.png' alt='部首「りゅう」'>"
+                ],
+                "name": [
+                    "りゅう"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "213",
+        "strokeNum": "16",
+        "radicals": [
+            {
+                "id": "R-213-0",
+                "glyph": [
+                    "<img src='img/radicals/R-213-0-0.png' alt='部首「かめ」'>",
+                    "<img src='img/radicals/R-213-0-1.png' alt='部首「かめ」'>"
+                ],
+                "name": [
+                    "かめ"
+                ]
+            }
+        ]
+    },
+    {
+        "idNum": "214",
+        "strokeNum": "17",
+        "radicals": [
+            {
+                "id": "R-214-0",
+                "glyph": [
+                    "<img src='img/radicals/R-214-0-0.png' alt='部首「やく」'>"
+                ],
+                "name": [
+                    "やく"
+                ]
+            }
+        ]
+    }
+]

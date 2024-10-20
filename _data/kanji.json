@@ -1,0 +1,121 @@
+[
+    {
+        "characters": [
+            {
+                "character": "缶",
+                "glyph": "親字",
+                "kanken": "準２",
+                "strokeNum": 6,
+                "radical": "缶",
+                "strokeNumInRadical": 0,
+                "characterCodes": {
+                    "unicode": "U+7F36",
+                    "jiscode": "1-20-44"
+                },
+                "numberOrPage": {
+                    "kanken-page": 224,
+                    "shinjigen-number": 8208,
+                    "shinjigen-page": 1067
+                }
+            },
+            {
+                "character": "<img src='huang-shuang144_shuang3-u7f50-01.svg' alt='缶の異体字'>",
+                "glyph": "旧字",
+                "kanken": "１／準１",
+                "strokeNum": 23,
+                "radical": "缶",
+                "strokeNumInRadical": 17,
+                "characterCodes": {
+                    "unicode": "U+7F50",
+                    "jiscode": "1-70-05"
+                },
+                "numberOrPage": {
+                    "kanken-page": 224,
+                    "shinjigen-number": 8209,
+                    "shinjigen-page": 1067
+                }
+            },
+            {
+                "character": "罐",
+                "glyph": "旧字",
+                "kanken": "１／準１",
+                "strokeNum": 23,
+                "radical": "缶",
+                "strokeNumInRadical": 17,
+                "characterCodes": {
+                    "unicode": "U+7F50",
+                    "jiscode": "1-70-05"
+                },
+                "numberOrPage": {
+                    "kanken-page": 224,
+                    "shinjigen-number": 8211,
+                    "shinjigen-page": 1067
+                }
+            },
+            {
+                "character": "鑵",
+                "glyph": "異体字",
+                "kanken": "１級",
+                "strokeNum": null,
+                "radical": "金",
+                "strokeNumInRadical": null,
+                "characterCodes": {
+                    "unicode": "U+9475",
+                    "jiscode": "1-79-49"
+                },
+                "numberOrPage": {
+                    "kanken-page": 224,
+                    "shinjigen-number": null,
+                    "shinjigen-page": null
+                }
+            }
+        ],
+        "readings": {
+            "on": [
+                { "reading": "カン", "common": true },
+                { "reading": "フ", "common": false }
+            ],
+            "kun": [
+                { "reading": "かま", "common": false },
+                { "reading": "ほとぎ", "common": false }
+            ]
+        },
+        "meanings": [
+            {
+                "meaning": "かま。かん。ブリキなどの金属製の容器。また、「かんづめ（缶詰）」の略。",
+                "upperWords": [
+                    { "word": "汽缶" },
+                    { "word": "薬缶" }
+                ],
+                "type": "A"
+            },
+            {
+                "meaning": "ほとぎ。もたい。口をつぼんだ素焼きの器。",
+                "upperWords": [
+                    { "word": "撃缶" }
+                ],
+                "type": "B"
+            }
+        ],
+        "supplement": "本来別の意味の二つの字を「缶」にまとめた。(A)オランダ語・英語の「カン」の音訳。",
+        "lowerWords": [
+            { "word": "汽缶", "reading": "キカン" },
+            { "word": "薬缶", "reading": "ヤカン" },
+            { "word": "撃缶", "reading": "ゲキフ" }
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "安"
+            }
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "<img src='file.svg' alt='草の異体字'>"
+            }
+        ]
+    }
+]
