@@ -2,7 +2,7 @@
 
 ## `_data`ディレクトリのJSONデータから、markdownファイルを作成する
 ```
-ruby _scripts/access_glyph.rb
+ruby _scripts/generate_markdown.rb
 ```
 
 ## サイトをビルド
