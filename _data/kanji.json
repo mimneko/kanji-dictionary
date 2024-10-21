@@ -83,7 +83,7 @@
         "meanings": [
             {
                 "meaning": "かま。かん。ブリキなどの金属製の容器。また、「かんづめ（缶詰）」の略。",
-                "upperWords": [
+                "lowerWords": [
                     { "word": "汽缶" },
                     { "word": "薬缶" }
                 ],
@@ -91,13 +91,19 @@
             },
             {
                 "meaning": "ほとぎ。もたい。口をつぼんだ素焼きの器。",
-                "upperWords": [
+                "lowerWords": [
                     { "word": "撃缶" }
                 ],
                 "type": "B"
             }
         ],
         "supplement": "本来別の意味の二つの字を「缶」にまとめた。(A)オランダ語・英語の「カン」の音訳。",
+        "upperWords": [
+            { "word": "缶", "reading": "かま" },
+            { "word": "缶焚き", "reading": "かまたき" },
+            { "word": "缶詰", "reading": "カンづめ" },
+            { "word": "缶", "reading": "ほとぎ" }
+        ],
         "lowerWords": [
             { "word": "汽缶", "reading": "キカン" },
             { "word": "薬缶", "reading": "ヤカン" },
