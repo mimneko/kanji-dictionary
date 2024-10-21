@@ -3,21 +3,21 @@ layout: default
 ---
 
 <main>
-  <h1>部首</h1>
-
-  {% for radical_group in site.data.radicals %}
+    <h1>部首</h1>
+    
+    {% for radical_group in site.data.radicals %}
     <h2>{{ radical_group.radicals[0].glyph[0] }}部 （{{ radical_group.strokeNum }}画）</h2>
     
-    {% for radical in radical_group.radicals %}
-      <div class="radical">
-        <h3>{{ radical.name | join: "・" }}</h3>
-        <div class="radical-glyphs">
-        {% for glyph in radical.glyph %}
-          {{ glyph }}
-        {% endfor %}
+        {% for radical in radical_group.radicals %}
+        <div class="radical">
+            <h3>{{ radical.name | join: "・" }}</h3>
+            <div class="radical-glyphs">
+                {% for glyph in radical.glyph %}
+                {{ glyph }}
+                {% endfor %}
+            </div>
+            <p>[{{ radical.id }}] </p>
         </div>
-        <p>[{{ radical.id }}] </p>
-      </div>
+        {% endfor %}
     {% endfor %}
-  {% endfor %}
 </main>
