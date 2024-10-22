@@ -4,15 +4,19 @@
             {
                 "character": "缶",
                 "glyph": "親字",
-                "kanken": "準２",
-                "strokeNum": 6,
-                "radical": "缶",
-                "strokeNumInRadical": 0,
-                "characterCodes": {
-                    "unicode": "U+7F36",
-                    "jiscode": "1-20-44"
+                "strokes": 6,
+                "radical": "/common/images/bushu/16/121.png",
+                "strokesInRadical": 0,
+                "isEducational": true,
+                "isCommon": true,
+                "isName": false,
+                "isKokuji": false,
+                "kankenLevel": "準２",
+                "codes": {
+                    "jis": "1-20-44",
+                    "unicode": "U+7F36"
                 },
-                "numberOrPage": {
+                "references": {
                     "kanken-page": 224,
                     "shinjigen-number": 8208,
                     "shinjigen-page": 1067
@@ -21,15 +25,19 @@
             {
                 "character": "<img src='huang-shuang144_shuang3-u7f50-01.svg' alt='缶の異体字'>",
                 "glyph": "旧字",
-                "kanken": "１／準１",
-                "strokeNum": 23,
-                "radical": "缶",
-                "strokeNumInRadical": 17,
-                "characterCodes": {
-                    "unicode": "U+7F50",
-                    "jiscode": "1-70-05"
+                "strokes": 24,
+                "radical": "/common/images/bushu/16/121.png",
+                "strokesInRadical": 18,
+                "isEducational": false,
+                "isCommon": false,
+                "isName": false,
+                "isKokuji": false,
+                "kankenLevel": "１／準１",
+                "codes": {
+                    "jis": null,
+                    "unicode": null
                 },
-                "numberOrPage": {
+                "references": {
                     "kanken-page": 224,
                     "shinjigen-number": 8209,
                     "shinjigen-page": 1067
@@ -38,15 +46,19 @@
             {
                 "character": "罐",
                 "glyph": "旧字",
-                "kanken": "１／準１",
-                "strokeNum": 23,
-                "radical": "缶",
-                "strokeNumInRadical": 17,
-                "characterCodes": {
-                    "unicode": "U+7F50",
-                    "jiscode": "1-70-05"
+                "strokes": 23,
+                "radical": "/common/images/bushu/16/121.png",
+                "strokesInRadical": 17,
+                "isEducational": false,
+                "isCommon": false,
+                "isName": false,
+                "isKokuji": false,
+                "kankenLevel": "１／準１",
+                "codes": {
+                    "jis": "1-70-05",
+                    "unicode": "U+7F50"
                 },
-                "numberOrPage": {
+                "references": {
                     "kanken-page": 224,
                     "shinjigen-number": 8211,
                     "shinjigen-page": 1067
@@ -55,15 +67,19 @@
             {
                 "character": "鑵",
                 "glyph": "異体字",
-                "kanken": "１級",
-                "strokeNum": null,
-                "radical": "金",
-                "strokeNumInRadical": null,
-                "characterCodes": {
-                    "unicode": "U+9475",
-                    "jiscode": "1-79-49"
+                "strokes": null,
+                "radical": null,
+                "strokesInRadical": null,
+                "isEducational": false,
+                "isCommon": false,
+                "isName": false,
+                "isKokuji": false,
+                "kankenLevel": "１",
+                "codes": {
+                    "jis": "1-79-49",
+                    "unicode": "U+9475"
                 },
-                "numberOrPage": {
+                "references": {
                     "kanken-page": 224,
                     "shinjigen-number": null,
                     "shinjigen-page": null
@@ -72,42 +88,51 @@
         ],
         "readings": {
             "on": [
-                { "reading": "カン", "common": true },
-                { "reading": "フ", "common": false }
+                { "reading": "カン", "isCommon": true, "isJuniorHighschool": false, "isHighschool": false },
+                { "reading": "フ", "isCommon": false, "isJuniorHighschool": false, "isHighschool": false }
             ],
             "kun": [
-                { "reading": "かま", "common": false },
-                { "reading": "ほとぎ", "common": false }
+                { "reading": "かま", "isCommon": false, "isJuniorHighschool": false, "isHighschool": false },
+                { "reading": "ほとぎ", "isCommon": false, "isJuniorHighschool": false, "isHighschool": false }
             ]
         },
         "meanings": [
-            {
-                "meaning": "かま。かん。ブリキなどの金属製の容器。また、「かんづめ（缶詰）」の略。",
-                "lowerWords": [
-                    { "word": "汽缶" },
-                    { "word": "薬缶" }
-                ],
-                "type": "A"
-            },
-            {
-                "meaning": "ほとぎ。もたい。口をつぼんだ素焼きの器。",
-                "lowerWords": [
-                    { "word": "撃缶" }
-                ],
-                "type": "B"
-            }
+            [
+                [
+                    {
+                        "meaning": "かま。かん。ブリキなどの金属製の容器。また、「かんづめ（缶詰）」の略。",
+                        "words": [
+                            { "word": "汽缶" },
+                            { "word": "薬缶" }
+                        ],
+                        "synonym": null,
+                        "antonym": null,
+                        "type": "A"
+                    },
+                    {
+                        "meaning": "ほとぎ。もたい。口をつぼんだ素焼きの器。",
+                        "words": [
+                            { "word": "撃缶" }
+                        ],
+                        "synonym": null,
+                        "antonym": null,
+                        "type": "B"
+                    }
+                ]
+            ]
         ],
-        "supplement": "本来別の意味の二つの字を「缶」にまとめた。(A)オランダ語・英語の「カン」の音訳。",
-        "upperWords": [
-            { "word": "缶", "reading": "かま" },
-            { "word": "缶焚き", "reading": "かまたき" },
-            { "word": "缶詰", "reading": "カンづめ" },
-            { "word": "缶", "reading": "ほとぎ" }
-        ],
-        "lowerWords": [
-            { "word": "汽缶", "reading": "キカン" },
-            { "word": "薬缶", "reading": "ヤカン" },
-            { "word": "撃缶", "reading": "ゲキフ" }
+        "notes": "本来別の意味の二つの字を「缶」にまとめた。(A)オランダ語・英語の「カン」の音訳。",
+        "alternative": null,
+        "words": [
+            [
+                { "word": "缶", "reading": "かま" },
+                { "word": "缶焚き", "reading": "かまたき" },
+                { "word": "缶詰", "reading": "カンづめ" },
+                { "word": "缶", "reading": "ほとぎ" },
+                { "word": "汽缶", "reading": "キカン" },
+                { "word": "薬缶", "reading": "ヤカン" },
+                { "word": "撃缶", "reading": "ゲキフ" }
+            ]
         ]
     },
     {
